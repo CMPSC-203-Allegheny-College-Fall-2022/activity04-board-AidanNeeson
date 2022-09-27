@@ -15,3 +15,6 @@ This assignment invites a developer to explore the use of GitHub project boards.
 1. Create at least three GitHub issues in each others' repositories. These can be made up for the purpose of this exercise. Make sure to assign labels and assignees.
 2. Learn about [GitHub Project Boards](https://docs.github.com/en/issues/planning-and-tracking-with-projects).
 3. In your own repository, create GitHub user project board with at least three columns. Populate the board with issues. Indicate iteration and priorities. Use built-in automation. 
+
+## Project link
+https://github.com/orgs/CMPSC-203-Allegheny-College-Fall-2022/projects/13/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%5D
